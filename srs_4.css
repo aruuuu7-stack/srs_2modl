@@ -1,0 +1,46 @@
+.one{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 250px;
+    width: 150px;
+    border: 1px solid black;
+}
+.two{
+    position: absolute;
+    top: 10px;
+    left: 240px;
+    height: 250px;
+    width: 150px;
+    border: 1px solid black;
+}
+.three{
+    position: absolute;
+    top: 10px;
+    left: 470px;
+    height: 250px;
+    width: 150px;
+    border: 1px solid black;
+}
+.ss{
+    color: black;
+    text-align: center;
+}
+.bb{
+    color: black;
+    text-align: center;
+}
+.mm{
+    color: black;
+    text-align: center;
+}
+p{
+    color: darkgrey;
+    text-align: center;
+}
+img{
+    margin-left: 40px;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
